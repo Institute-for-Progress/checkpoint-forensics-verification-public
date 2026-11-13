@@ -1,0 +1,6 @@
+.venv/
+.replay-venv/
+.rows/
+__pycache__/
+/checkpoint-fetch.jsonl
+/replay-*.jsonl
